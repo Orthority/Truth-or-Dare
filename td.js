@@ -58,7 +58,7 @@ const truthQuestions = [
 "What’s a new tradition you’d like to start with me?",
 "What’s the best adventure we’ve had together so far?",
 "How do you think we complement each other as partners?",
-"What’s one thing you’d like to learn about me that you don’t already know?,
+"What’s one thing you’d like to learn about me that you don’t already know?",
 "How do you think we complement each other as partners?",
 "What’s the most romantic thing you can imagine us doing together?",
 "What’s one habit of mine that you find endearing?",
